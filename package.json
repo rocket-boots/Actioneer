@@ -1,6 +1,6 @@
 {
   "name": "rocket-boots-actioneer",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Handler of keyboard, mouse, tap actions",
   "type": "module",
   "main": "./index.cjs",
