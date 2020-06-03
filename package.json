@@ -1,0 +1,33 @@
+{
+  "name": "rocket-boots-actioneer",
+  "version": "0.2.0",
+  "description": "Handler of keyboard, mouse, tap actions",
+  "type": "module",
+  "main": "./index.cjs",
+  "exports": {
+    "import": "./index.mjs",
+    "require": "./index.cjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocket-boots/Actioneer.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Luke Nickerson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rocket-boots/Actioneer/issues"
+  },
+  "homepage": "https://github.com/rocket-boots/Actioneer#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
