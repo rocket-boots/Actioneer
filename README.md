@@ -62,3 +62,9 @@ const actioneer = new Actioneer(actionsByState, options);
 
 actioneer.setState('main');
 ```
+
+## To Do
+
+- [ ] Merge some of this functionality into actioneer https://github.com/deathraygames/turto-virtual-pet/blob/master/ld46/scripts/Input.js
+- [ ] Handle more keys
+- [ ] Incorporate into rote js
