@@ -65,6 +65,6 @@ actioneer.setState('main');
 
 ## To Do
 
-- [ ] Merge some of this functionality into actioneer https://github.com/deathraygames/turto-virtual-pet/blob/master/ld46/scripts/Input.js
 - [ ] Handle more keys
 - [ ] Incorporate into rote js
+- [ ] Merge some/all of the Input.js file (from https://github.com/deathraygames/turto-virtual-pet/blob/master/ld46/scripts/Input.js) into the main code and remove
